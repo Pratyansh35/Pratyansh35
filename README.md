@@ -12,15 +12,11 @@
  <a href="https://www.linkedin.com/in/pratyansh35/" target="_blank"> 
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
  </a>
-
-
-  &#160
+  &#160;&#160;&#160;
   <a href="https://leetcode.com/pratyansh35/" target="_blank"> 
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" height="25" alt="leetCode logo"  />
   </a>
- &#160
-
- 
+ &#160;&#160;&#160;
   <a href="https://www.hackerrank.com/profile/pratyansh35" target="_blank"> 
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" href="https://www.hackerrank.com/profile/pratyansh35" />
   </a>

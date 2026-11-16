@@ -34,7 +34,7 @@
 ```python
 class Pratyansh:
     def __init__(self):
-        self.role      = "Software Development Engineer in Test @ Hitachi Digital 💼"
+        self.role      = "Full Stack Developer @ Hitachi Digital 💼"
         self.education = "B.Tech CSE (Class of 2025) @ Lovely Professional University 🎓"
         self.location  = "Uttar Pradesh, India 🇮🇳"
         self.exploring = "AI & building intelligent apps 🤖"
@@ -68,8 +68,14 @@ me.greet()
 ## 🔥 &nbsp;Stats Matrix
 
 <p align="center">
-  <img height="170" src="https://YOUR-STATS-APP.vercel.app/api?username=pratyansh35&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00f7ff" alt="GitHub stats"/>
-  <img height="170" src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=pratyansh35&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top languages"/>
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=pratyansh35&show_icons=true&include_all_commits=true&show=contributions,prs_merged&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00f7ff&custom_title=Pratyansh%27s%20GitHub%20Stats" alt="GitHub stats"/>
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratyansh35&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&custom_title=Most%20Used%20Languages" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@pratyansh35">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pratyansh35&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&custom_title=%E2%8C%9B%20Coding%20Time%20%28WakaTime%29" alt="WakaTime stats"/>
+  </a>
 </p>
 
 <p align="center">
@@ -84,7 +90,19 @@ me.greet()
 ## 🏆 &nbsp;Trophy Cabinet
 
 <p align="center">
-  <img src="https://YOUR-TROPHY-APP.vercel.app/?username=pratyansh35&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://github-trophy-jagratadeb.vercel.app/?username=pratyansh35&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</p>
+
+<!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
+## 🚀 &nbsp;Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pratyansh35/REPO-1">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pratyansh35&repo=REPO-1&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9" alt="project 1"/>
+  </a>
+  <a href="https://github.com/pratyansh35/REPO-2">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pratyansh35&repo=REPO-2&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9" alt="project 2"/>
+  </a>
 </p>
 
 <!-- ═══════════════════════  LEETCODE  ═══════════════════════ -->

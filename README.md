@@ -72,11 +72,6 @@ me.greet()
   <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratyansh35&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&custom_title=Most%20Used%20Languages" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@pratyansh35">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pratyansh35&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&custom_title=%E2%8C%9B%20Coding%20Time%20%28WakaTime%29" alt="WakaTime stats"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pratyansh35&hide_border=true&background=0D1117&ring=00F7FF&fire=BD00FF&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=00F7FF&dates=8B949E&stroke=30363D" alt="GitHub streak"/>
@@ -91,18 +86,6 @@ me.greet()
 
 <p align="center">
   <img src="https://github-trophy-jagratadeb.vercel.app/?username=pratyansh35&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
-<!-- ═══════════════════════  FEATURED PROJECTS  ═══════════════════════ -->
-## 🚀 &nbsp;Featured Projects
-
-<p align="center">
-  <a href="https://github.com/pratyansh35/REPO-1">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pratyansh35&repo=REPO-1&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9" alt="project 1"/>
-  </a>
-  <a href="https://github.com/pratyansh35/REPO-2">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pratyansh35&repo=REPO-2&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9" alt="project 2"/>
-  </a>
 </p>
 
 <!-- ═══════════════════════  LEETCODE  ═══════════════════════ -->

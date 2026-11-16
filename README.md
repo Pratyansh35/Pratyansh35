@@ -1,11 +1,11 @@
 <!-- ═══════════════════════  ANIMATED HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=230&section=header&text=PRATYANSH&fontSize=75&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descSize=18&descAlignY=58" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=230&section=header&text=PRATYANSH&fontSize=75&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Competitive%20Programmer&descSize=18&descAlignY=58" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there+%F0%9F%91%8B+I'm+Pratyansh;B.Tech+%40+Lovely+Professional+University;Java+%E2%80%A2+Kotlin+%E2%80%A2+Python+%E2%80%A2+JavaScript;Full-Stack+%7C+Android+%7C+Test+Automation;Turning+ideas+into+real-world+projects+%F0%9F%9A%80" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Hey+there+%F0%9F%91%8B+I%27m+Pratyansh;Full+Stack+Developer+%40+Hitachi+Digital;CSE%2725+%40+Lovely+Professional+University+%F0%9F%8E%93;AI+Explorer+%F0%9F%A4%96+%7C+Competitive+Programmer+%F0%9F%8F%86;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="typing animation"/>
   </a>
 </p>
 
@@ -34,10 +34,11 @@
 ```python
 class Pratyansh:
     def __init__(self):
+        self.role      = "Software Development Engineer in Test @ Hitachi Digital 💼"
+        self.education = "B.Tech CSE (Class of 2025) @ Lovely Professional University 🎓"
         self.location  = "Uttar Pradesh, India 🇮🇳"
-        self.education = "B.Tech @ Lovely Professional University 🎓"
-        self.mission   = "Sharpening my technical skills across every corner of tech 🔭"
-        self.currently = "Turning what I learn into real-life projects ⚡"
+        self.exploring = "AI & building intelligent apps 🤖"
+        self.compete   = "Competitive programming on LeetCode & HackerRank 🏆"
         self.off_duty  = "Gaming 🎮"
 
     def greet(self):
@@ -67,8 +68,8 @@ me.greet()
 ## 🔥 &nbsp;Stats Matrix
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratyansh35&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00f7ff" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyansh35&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top languages"/>
+  <img height="170" src="https://YOUR-STATS-APP.vercel.app/api?username=pratyansh35&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00f7ff&icon_color=bd00ff&text_color=c9d1d9&ring_color=00f7ff" alt="GitHub stats"/>
+  <img height="170" src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=pratyansh35&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -83,7 +84,7 @@ me.greet()
 ## 🏆 &nbsp;Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyansh35&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://YOUR-TROPHY-APP.vercel.app/?username=pratyansh35&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
 <!-- ═══════════════════════  LEETCODE  ═══════════════════════ -->
